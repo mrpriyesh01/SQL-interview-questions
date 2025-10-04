@@ -6,7 +6,7 @@
 
 | No. | Questions |
 |---- | ---------
-|1    | [What is a database?	]( )	|
+|1    | [What is a database?	]( )	|\
 |1    | [What is DBMS?	]( )	|
 |1    | [ What is SQL?	]( )	|
 |1    | [ What is PL/SQL?	]( )	|
